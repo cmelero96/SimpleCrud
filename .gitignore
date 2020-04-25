@@ -12,4 +12,5 @@ buildNumber.properties
 .project
 .classpath
 .mvn
-mvnw
+mvnw*
+.settings
