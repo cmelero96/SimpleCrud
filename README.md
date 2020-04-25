@@ -2,8 +2,7 @@ This is a simple example of a CRUD application following a RESTful microservices
 
 ## Installation
 
-This project has been developed using the https://www.eclipse.org/downloads/[Eclipse IDE] (Version 4.15.0) and using
-https://www.oracle.com/java/technologies/javase-jdk8-downloads.html[Java 1.8].
+This project has been developed using the [Eclipse IDE](https://www.eclipse.org/downloads/) (Version 4.15.0) and [Java version 1.8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
 
 Setup of the project is fairly simple. Follow these steps if you're using Eclipse IDE (should be similar for other IDEs):
 
