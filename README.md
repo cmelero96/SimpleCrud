@@ -1,6 +1,6 @@
 This is a simple example of a CRUD application following a RESTful microservices structure using Java & Spring Boot.
 
-== Installation
+## Installation
 
 This project has been developed using the https://www.eclipse.org/downloads/[Eclipse IDE] (Version 4.15.0) and using
 https://www.oracle.com/java/technologies/javase-jdk8-downloads.html[Java 1.8].
@@ -36,7 +36,7 @@ Special notes:
 
  - You can consult the javadoc either through the "javadoc" shortcut on the root folder, or inside the javadoc folder therein.
 
-=== Features
+## Features
 
 The application to develop has to manage a collection of users with the following information:
 
